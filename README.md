@@ -1,6 +1,9 @@
 <a href="mailto:minjee412@gmail.com" target="email"><img src="https://img.shields.io/badge/minjee412@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjee412&show_icons=true&theme=nord)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&section=header&text=Junior-Developer&fontSize=50)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjee412&show_icons=true&theme=buefy)
 
 👋 Hi there ! I'm Park Min-Jee. Front-end Junior Developer.
 
@@ -9,7 +12,7 @@
 > 
 >  I hope to develop beautiful service. 🌺
   
-<h4 style={{color=red}}>Nowdays, I'm intersted in Algorithm, Refactoring and CleanCode.</h4>
+<h4>Nowdays, I'm intersted in Algorithm, Refactoring and CleanCode.</h4>
 
   
 <h3> 👨‍💻Skills </h3>
