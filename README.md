@@ -12,7 +12,8 @@
 > 
 >  I hope to develop beautiful service. 🌺
   
-<h4>Nowdays, I'm intersted in Algorithm, Refactoring and CleanCode.</h4>
+<h4>I'm intersted in Algorithm, Refactoring and CleanCode.</h4>
+<h2>Nowdays, I'm studying Vue.js</h2>
 
   
 <h3> 👨‍💻Skills </h3>
